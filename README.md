@@ -1,7 +1,7 @@
 # Quadratic Equation Solver
 
 ## Description
-Quadratic Equation Solver is a simple console application developed in C# that helps users solve quadratic equations of the form `ax^2 + bx + c = 0`. It calculates the roots of the equation using the quadratic formula and displays the results.
+Quadratic Equation Solver is a simple console application developed in Assembly that helps users solve quadratic equations of the form `ax^2 + bx + c = 0`. It calculates the roots of the equation using the quadratic formula and displays the results.
 
 ## Features
 - Solves quadratic equations by calculating real and complex roots.
